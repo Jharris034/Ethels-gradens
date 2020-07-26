@@ -11,7 +11,7 @@ body {
 }
 
 .banner {
-  background: url('../images/gardenim.jpg');
+  background: url('../images/gardengate.jpg');
   background-size: cover;
   min-height: 100vh;
   padding: 3rem;
@@ -24,8 +24,6 @@ body {
   padding: 3rem;
   font-size: 3.5rem;
   width: auto;
-  background: url('../images/gardengate.jpg');
-  min-height: 75vh
   font-family: 'Red Rose', cursive;
 }
 
