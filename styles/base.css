@@ -14,7 +14,7 @@ body {
 .banner {
   background: url('../images/gardenbackground.jpg');
   background-size: cover;
-  min-height: 40vh;
+  min-height: 100vh;
   padding: 3rem;
   text-align: center;
   width:720p;
