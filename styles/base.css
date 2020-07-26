@@ -24,10 +24,7 @@ body {
   padding: 3rem;
   font-size: 3.5rem;
   width: auto;
-  background: #ff8c00;
-  color: #8c00ff;
-  border: 15px double #ffff33;
-  background: #ff8c00;
+  background: url('../images/gardengate.jpg');
   font-family: 'Red Rose', cursive;
 }
 
