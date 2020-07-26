@@ -25,6 +25,7 @@ body {
   font-size: 3.5rem;
   width: auto;
   background: url('../images/gardengate.jpg');
+  min-height: 75vh
   font-family: 'Red Rose', cursive;
 }
 
